@@ -1,18 +1,10 @@
-## Getting Started
+## Desafio de Projeto do Curso de Java Básico da DIO.me
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Criando uma conta no banco
 
-## Folder Structure
+### Como utilizar o programa via IDE:
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Faça o fork do projeto
+- Clone para sua máquina
+- Abra o projeto na IDE de sua preferência e execute o programa
+- Siga o que é pedido no terminal da IDE
